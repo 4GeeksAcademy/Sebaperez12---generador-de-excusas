@@ -1,5 +1,8 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+h1 { 
 
-body{
-    background: white;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
 }
+
+
